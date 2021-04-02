@@ -10,7 +10,6 @@ public class Cube_Of_Same_Number {
 		System.out.println("Enter a number:");
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();
-		
 		int cube_of_number = num * num * num;
 		System.out.println(cube_of_number);
 		sc.close();

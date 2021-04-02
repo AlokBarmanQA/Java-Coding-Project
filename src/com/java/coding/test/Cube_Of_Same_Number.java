@@ -20,4 +20,5 @@ public class Cube_Of_Same_Number {
 		int cube_of_number = num * num * num;
 		System.out.println(cube_of_number);
 	}
+	// Merge conflict is solved
 }

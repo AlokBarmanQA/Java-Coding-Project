@@ -3,7 +3,7 @@ package com.java.coding.test;
 import java.util.Scanner;
 
 public class Cube_Of_Same_Number {
-	// Cube of a same number
+	// Cube of a same number conflict testing
 	public static void main(String[] args) {
 		//Write a program in Java to display the cube of the number upto given an integer.
 		
